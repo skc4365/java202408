@@ -1,0 +1,15 @@
+package ch02.sec01;
+
+public class IntegerLiteralExam {
+
+	public static void main(String[] args) {
+//		11 : 2진수 1011 
+		int var1 = 0b1011;
+		System.out.println(var1);
+//		: 8진수 206
+		int var2 = 0206;
+		System.out.println(var2);
+
+	}
+
+}

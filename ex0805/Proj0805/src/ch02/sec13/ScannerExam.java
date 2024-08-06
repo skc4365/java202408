@@ -28,7 +28,6 @@ public class ScannerExam {
 			}
 			System.out.println("출력 문자열: " + data);
 			System.out.println();
-			
 		}
 		System.out.println("종료");
 

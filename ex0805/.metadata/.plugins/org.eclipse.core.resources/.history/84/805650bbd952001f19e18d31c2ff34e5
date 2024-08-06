@@ -1,0 +1,16 @@
+package ch02.sec01;
+
+public class ExPage50 {
+
+	public static void main(String[] args) {
+		
+		int x = 10;
+		boolean result = (x == 20);
+		boolean result = (x != 20);
+		boolean result = (x > 20);
+		boolean result = (0 < x && x < 20);
+		boolean result = (x < 0 || x > 20);
+
+	}
+
+}
