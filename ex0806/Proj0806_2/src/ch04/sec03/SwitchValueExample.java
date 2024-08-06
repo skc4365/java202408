@@ -27,6 +27,7 @@ public class SwitchValueExample {
 		case "B" -> {
 			int result = 100 - 20;
 			//Java 13부터 가능
+//			->{ result값을 리턴하기 위해서 사용 } 
 			yield result;
 		}
 		default -> 60;

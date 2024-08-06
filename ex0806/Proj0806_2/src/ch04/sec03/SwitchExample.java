@@ -3,8 +3,9 @@ package ch04.sec03;
 public class SwitchExample {
 
 	public static void main(String[] args) {
-		
-		int num = (int)(Math.random()*6) + 1;
+
+//		int타입캐스팅을 통해 정수형만 사용
+		int num = (int)(Math.random() * 6) + 1;
 
 		switch(num) {
 		case 1:

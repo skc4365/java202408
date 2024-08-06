@@ -3,7 +3,7 @@ package ch04.sec03;
 public class SwitchExpressonsExample {
 
 	public static void main(String[] args) {
-		
+
 		char grade = 'B';
 
 		switch(grade) {
