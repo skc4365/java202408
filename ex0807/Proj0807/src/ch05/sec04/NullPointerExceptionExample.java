@@ -1,4 +1,4 @@
-package ch05sec04;
+package ch05.sec04;
 
 public class NullPointerExceptionExample {
 
@@ -10,7 +10,7 @@ public class NullPointerExceptionExample {
 
 		String str = null;
 //---NullPointerException:
-		System.out.println(str.length());
+//		System.out.println(str.length());
 
 	}
 

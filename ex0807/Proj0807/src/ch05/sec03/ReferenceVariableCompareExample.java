@@ -1,4 +1,4 @@
-package ch05sec03;
+package ch05.sec03;
 
 public class ReferenceVariableCompareExample {
 
