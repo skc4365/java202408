@@ -9,6 +9,7 @@ public class PrintFrom1To10Example {
 			System.out.print(i + " ");
 			i++;
 		}
+		System.out.println("\n--i: " + i);
 	}
 
 }

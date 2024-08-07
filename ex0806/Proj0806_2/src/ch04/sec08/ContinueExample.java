@@ -7,7 +7,7 @@ public class ContinueExample {
 		for(int i=1; i<=10; i++) {
 			
 //			짝수찾기
-			if(i%2 != 0) {
+			if(i % 2 != 0) {
 				continue;
 			}
 			System.out.print(i + " ");

@@ -15,6 +15,7 @@ public class DoWhileExample {
 			System.out.print(">");
 			inputString = scanner.nextLine();
 			System.out.println(inputString);
+			
 		} while( ! inputString.equals("q") );
 
 		System.out.println();

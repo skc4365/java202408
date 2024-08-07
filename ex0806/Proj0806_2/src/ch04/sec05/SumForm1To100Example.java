@@ -12,6 +12,7 @@ public class SumForm1To100Example {
 			i++;
 		}
 		System.out.println("1~" + (i-1) + " 합 : " + sum);
+		System.out.println("\n--i: " + i);
 	}
 
 }
