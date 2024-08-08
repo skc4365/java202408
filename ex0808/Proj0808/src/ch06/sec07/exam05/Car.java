@@ -7,6 +7,8 @@ public class Car {
 	String color;
 	int maxSpeed;
 
+	Car(){}
+	
 	Car(String model) {
 		//20라인 생성자 호출
 		this(model, "은색", 250);
@@ -22,4 +24,6 @@ public class Car {
 		this.color = color;
 		this.maxSpeed = maxSpeed;
 	}
+	
+	
 }
