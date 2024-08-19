@@ -25,7 +25,7 @@ public class A {
 			System.out.println(this.field);
 			this.method();
 			
-			//A 객체의 필드와 메소드 사용
+			//*** A 객체의 필드와 메소드 사용
 			System.out.println(A.this.field);
 			A.this.method();
 		}
